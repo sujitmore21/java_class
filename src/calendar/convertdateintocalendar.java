@@ -7,13 +7,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
-/**
- *
- * @author Rohit Agarwal
- * @category Date and Time
- * @problem How to convert Date to Calendar?
- *
- */
+
 class ConvertDateToCalendar {
 
     /*
