@@ -1,4 +1,4 @@
-package selection_statement;
+package controlstatement;
 
 public class ternary_operator {
     public static void main(String[] args) {

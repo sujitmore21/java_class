@@ -1,4 +1,4 @@
-package selection_statement;
+package controlstatement;
 
 public class use_string_switch {
     public static void main(String[] args) {
