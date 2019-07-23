@@ -1,6 +1,6 @@
 package keywords;
 
-import constructor.ConstructorDemo;
+import oops.polymorphism.constructor.ConstructorDemo;
 
 public class ThisKey {
 
