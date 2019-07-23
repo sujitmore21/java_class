@@ -1,4 +1,4 @@
-package inheritancedemo.Method_Overriding;
+package oops.polymorphism.inheritancedemo.Method_Overriding;
 
 public class demo extends ParentClass {
 

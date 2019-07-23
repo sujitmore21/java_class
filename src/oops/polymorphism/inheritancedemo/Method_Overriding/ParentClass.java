@@ -1,8 +1,8 @@
-package inheritancedemo.Method_Overriding;
+package oops.polymorphism.inheritancedemo.Method_Overriding;
 
 class ParentClass {
 
-    //Parent class constructor
+    //Parent class oops.polymorphism.constructor
     ParentClass(){
         System.out.println("Constructor of Parent");
     }

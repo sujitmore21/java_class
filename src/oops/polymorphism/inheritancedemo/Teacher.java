@@ -1,4 +1,4 @@
-package inheritancedemo;
+package oops.polymorphism.inheritancedemo;
 
 class Teacher {
 
