@@ -1,11 +1,11 @@
 package polymorphism;
 
-public class Employee{
+public class Employee {
 
     int id;
     String name;
 
-    public  int getId(){
+    public int getId() {
         return id;
     }
 
@@ -13,12 +13,11 @@ public class Employee{
         this.id = id;
     }
 
+    public String getName() {
+        return name;
+    }
+
     public void setName(String name) {
         this.name = name;
     }
-    public String getName(){
-        return name;
-    }
 }
-
-
